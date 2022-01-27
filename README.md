@@ -14,15 +14,14 @@
 balanced accuracy score is 65.2%
 precision score 99%
 recall score 67%
-![](images/naive random oversampling.png)
-
+![](images/naive.png)
 
 - SMOTE oversampling
 
 balanced accuracy score is 65%
 precision score 99%
 recall score 67%
-![](images/smot.png)
+![](images/smote.png)
 
 
 - undersampling
@@ -46,7 +45,7 @@ recall score 57%
 balanced accuracy score is 78.3%
 precision score 99%
 recall score 89%
-![](images/balanced random forest.png)
+![](images/balanced.png)
 
 
 - Easy Ensemble AdaBoost Classifier
@@ -54,7 +53,7 @@ recall score 89%
 balanced accuracy score is 91.4%
 precision score 99%
 recall score 94%
-![](images/easy ensemble.png)
+![](images/easy.png)
 
 
 
